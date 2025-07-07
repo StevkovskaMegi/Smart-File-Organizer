@@ -50,4 +50,4 @@ Real-time messages and feedback in the interface
 
 ### GUI Main Window
 
-![GUI Example](screenshots/gui.png)
+![GUI Example](/smart_file_organizer/screenshots/gui.png)
