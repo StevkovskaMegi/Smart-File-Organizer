@@ -1,0 +1,72 @@
+[
+  {
+    "source": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/test_files/organizer.py",
+    "destination": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/test_files/py/organizer.py",
+    "timestamp": "2025-07-07T23:33:03.154115"
+  },
+  {
+    "source": "/Users/megistevkovska/Desktop/fax/epdp/Naloga 9.docx",
+    "destination": "/Users/megistevkovska/Desktop/fax/epdp/docx/Naloga 9.docx",
+    "timestamp": "2025-07-07T23:37:59.214175"
+  },
+  {
+    "source": "/Users/megistevkovska/Desktop/fax/epdp/2_kolokvij.pdf",
+    "destination": "/Users/megistevkovska/Desktop/fax/epdp/pdf/2_kolokvij.pdf",
+    "timestamp": "2025-07-07T23:37:59.215391"
+  },
+  {
+    "source": "/Users/megistevkovska/Desktop/fax/epdp/Stevkovska_optimizacija_SEO.pdf",
+    "destination": "/Users/megistevkovska/Desktop/fax/epdp/pdf/Stevkovska_optimizacija_SEO.pdf",
+    "timestamp": "2025-07-07T23:37:59.216012"
+  },
+  {
+    "source": "/Users/megistevkovska/Desktop/fax/epdp/EPDP_2.kolokvij.pdf",
+    "destination": "/Users/megistevkovska/Desktop/fax/epdp/pdf/EPDP_2.kolokvij.pdf",
+    "timestamp": "2025-07-07T23:37:59.216545"
+  },
+  {
+    "source": "/Users/megistevkovska/Desktop/fax/epdp/epdp_abi.json",
+    "destination": "/Users/megistevkovska/Desktop/fax/epdp/json/epdp_abi.json",
+    "timestamp": "2025-07-07T23:37:59.217214"
+  },
+  {
+    "source": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/requirements.txt",
+    "destination": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/txt/requirements.txt",
+    "timestamp": "2025-07-07T23:38:53.576361"
+  },
+  {
+    "source": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/history.json",
+    "destination": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/json/history.json",
+    "timestamp": "2025-07-07T23:38:53.578039"
+  },
+  {
+    "source": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/logger.py",
+    "destination": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/py/logger.py",
+    "timestamp": "2025-07-07T23:38:53.579130"
+  },
+  {
+    "source": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/main.py",
+    "destination": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/py/main.py",
+    "timestamp": "2025-07-07T23:38:53.579899"
+  },
+  {
+    "source": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/gui.py",
+    "destination": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/py/gui.py",
+    "timestamp": "2025-07-07T23:38:53.580528"
+  },
+  {
+    "source": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/organizer.py",
+    "destination": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/py/organizer.py",
+    "timestamp": "2025-07-07T23:38:53.581285"
+  },
+  {
+    "source": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/history.py",
+    "destination": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/py/history.py",
+    "timestamp": "2025-07-07T23:38:53.582274"
+  },
+  {
+    "source": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/organizer.log",
+    "destination": "/Users/megistevkovska/Downloads/Smart-File-Organizer-main/smart_file_organizer/log/organizer.log",
+    "timestamp": "2025-07-07T23:38:53.583172"
+  }
+]
