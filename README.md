@@ -41,10 +41,10 @@ python3 main.py
 Run [c]onsole or [g]ui? g
 
 GUI features:
-Browse: Choose the folder to organize
-Scan & Move: Automatically sort files by type
-Undo Last Move: Reverts the most recent organization
-Real-time messages and feedback in the interface
+1. Browse: Choose the folder to organize
+2. Scan & Move: Automatically sort files by type
+3. Undo Last Move: Reverts the most recent organization
+4. Real-time messages and feedback in the interface
 
 ## Screenshots
 
